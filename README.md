@@ -1,6 +1,6 @@
 ## Faceshape-Detection
 
-This is a simple application that takes an image file as input and produces the face shape of the person in the image as output (if a face is found in the image).
+This is an application that takes an image file as input and produces the face shape of the person in the image as output (if a face is found in the image).
 
 ## Tools / Libraries
 
